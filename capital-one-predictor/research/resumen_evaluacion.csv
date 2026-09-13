@@ -1,0 +1,6 @@
+,error_relativo_pct
+1. Naive (repetir mes anterior),14.15264117251411
+"2. Naive estacional (mismo mes, anio pasado)",13.90242057717271
+3. LightGBM nivel absoluto,9.746059850003517
+4. LightGBM % de cambio,9.951252787120058
+5. SARIMAX log(net_flow),10.190656351594482
